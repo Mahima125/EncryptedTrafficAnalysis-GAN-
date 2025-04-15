@@ -1,0 +1,10 @@
+Metric,Value
+ROC AUC (Real Data),0.8623
+ROC AUC (Synthetic Data),0.9474
+AUC Difference,            0.0850 (8.50%)
+Average KL Divergence,0.1675
+Average JS Distance,0.1541
+Average Histogram Intersection,0.8461
+IDS (Intrinsic Dimension Similarity),0.9957
+Average Correlation Difference,0.1546
+Average KS Statistic,0.1326
