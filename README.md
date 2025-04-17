@@ -1,6 +1,6 @@
 # EncryptedTrafficAnalysis-GAN-
 
-NIS Course project
+NIS Course project:
 Generative AI for Encrypted Traffic Analysis
 
 Faculty: Dr. Aswani Kumar Cherukuri
